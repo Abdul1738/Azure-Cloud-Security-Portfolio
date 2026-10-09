@@ -22,8 +22,8 @@ In this project, I explored Microsoft Azure Administrator (AZ-104) Lab 01, focus
 ## 🏗️ Implementation & Tasks
 
 ### Task 1: Create and Configure Users
-* **Internal User Provisioning:** Set up new user accounts in Microsoft Entra ID, configuring parameters like User Principal Name, Display Name, Job Title, Department, Usage Location, and Account Status
-* **External User Management:** Tested Microsoft Entra ID's guest access feature by inviting an external collaborator to work with organizational resources securely.
+* **Internal User Provisioning:** Set up new user accounts in Microsoft Entra ID, configuring parameters like User Principal Name, Display Name, Job Title, Department, Usage Location, and Account Status.
+* **External User Management:** Tested Microsoft Entra ID's guest access feature by inviting an external collaborator to securely work with organizational resources.
 
 ### Task 2: Create and Manage Security Groups
 * **Group Creation:** Created a Security Group named `IT Lab Administrators` to oversee users managing the IT lab environment.
@@ -41,5 +41,3 @@ In this project, I explored Microsoft Azure Administrator (AZ-104) Lab 01, focus
 * Identity and Access Management (IAM)
 * User and Group Management
 * Cloud Security Fundamentals & Azure Portal Navigation
-
-[🔙 Back to Main Portfolio Directory](../../README.md)

@@ -57,25 +57,26 @@ In this project, I explored Microsoft Azure Administrator (AZ-104) Lab 01, focus
 * **Membership Assignment:** Added owners and assigned members to enforce role-based access control (RBAC).
 
 #### Step 1: Locate Microsoft Entra ID
-![Searching for Microsoft Entra ID](./IMG_3336.png)
+![Searching for Microsoft Entra ID](./IMG_3391.png)
 
 #### Step 2: Configure Group Basics
-![Group Basics and Description](./IMG_3337.png)
+![Group Basics and Description](./IMG_3392.png)
 
 #### Step 3: Assign Group Owners
-![Assign Owners Selection](./IMG_3338.png)
+![Assign Owners Selection](./IMG_3393.png)
 
 #### Step 4: Add Group Members
-![Add Members Selection](./IMG_3339.png)
+![Add Members Selection](./IMG_3394.png)
 
 #### Step 5: Finalize Group Setup
-![Review and Create Group](./IMG_3340.png)
+![Review and Create Group](./IMG_3395.png)
 
 #### Step 6: Verify in All Groups
-![All Groups List View](./IMG_3341.png)
+![All Groups List View](./IMG_3396.png)
 
 #### Step 7: View Group Overview
-![Group Overview Dashboard](./IMG_3342.png)
+![Group Overview Dashboard](./IMG_3397.png)
+
 
 
 ---

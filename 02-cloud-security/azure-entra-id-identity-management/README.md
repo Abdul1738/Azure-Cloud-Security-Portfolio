@@ -52,6 +52,30 @@ In this project, I explored Microsoft Azure Administrator (AZ-104) Lab 01, focus
 ### Task 2: Create and Manage Security Groups
 * **Group Creation:** Created a Security Group named `IT Lab Administrators` to oversee users managing the IT lab environment.
 * **Ownership & Membership:** Designated a group owner, added both internal and external guest users, and reviewed static group membership settings.
+### Task 2: Create and Manage Security Groups
+* **Group Creation:** Created a Security Group named `IT Lab Administrators` to aggregate user permissions efficiently.
+* **Membership Assignment:** Added owners and assigned members to enforce role-based access control (RBAC).
+
+#### Step 1: Locate Entra ID
+![Step 1](./IMG_3336.png)
+
+#### Step 2: Configure Group Basics
+![Step 2](./IMG_3337.png)
+
+#### Step 3: Assign Group Owners
+![Step 3](./IMG_3338.png)
+
+#### Step 4: Add Group Members
+![Step 4](./IMG_3339.png)
+
+#### Step 5: Finalize Group Setup
+![Step 5](./IMG_3340.png)
+
+#### Step 6: Verify in All Groups
+![Step 6](./IMG_3341.png)
+
+#### Step 7: View Group Overview
+![Step 7](./IMG_3342.png)
 
 ---
 

@@ -65,8 +65,6 @@ I defined a custom role using granular permission sets. This showcased how admin
 
 ## 📸 Lab Screenshots & Evidence Reference
 
-*(Upload your screenshots to a `screenshots/` folder within this directory and link them below)*
-
 1. **Management Groups Hierarchy Setup** (`screenshots/management_groups.png`)
 2. **Subscription Access Control (IAM)** (`screenshots/subscription_iam.png`)
 3. **Custom RBAC Role Configuration** (`screenshots/custom_rbac.png`)

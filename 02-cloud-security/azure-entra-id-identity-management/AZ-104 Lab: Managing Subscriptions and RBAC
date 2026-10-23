@@ -1,6 +1,9 @@
-# ☁️ Azure Subscriptions & Role-Based Access Control (RBAC) Portfolio
+# AZ-104 Lab: Managing Subscriptions and RBAC
 
-Welcome to my cloud administration portfolio! This section highlights my hands-on lab experience completing the official [Microsoft AZ-104 Lab: Manage Subscriptions and RBAC in Microsoft Entra ID](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_02a_Manage_Subscriptions_and_RBAC_Entra.html).
+**Author:** Abdultawa Lagao  
+**Role:** Aspiring Cybersecurity Analyst | Azure Administrator | IT Support Specialist  
+**GitHub Profile:** https://github.com/abdul1738  
+**Lab Reference:** [Microsoft Learn AZ-104: Manage Subscriptions and RBAC](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_02a_Manage_Subscriptions_and_RBAC_Entra.html)
 
 ---
 
@@ -62,11 +65,11 @@ I defined a custom role using granular permission sets. This showcased how admin
 
 ## 📸 Lab Screenshots & Evidence Reference
 
-*(Add your lab screenshots to your repository folder and link them below)*
+*(Upload your screenshots to a `screenshots/` folder within this directory and link them below)*
 
-1. **Management Groups Hierarchy Setup** (`management_groups.png`)
-2. **Subscription Access Control (IAM)** (`subscription_iam.png`)
-3. **Custom RBAC Role Configuration** (`custom_rbac.png`)
+1. **Management Groups Hierarchy Setup** (`screenshots/management_groups.png`)
+2. **Subscription Access Control (IAM)** (`screenshots/subscription_iam.png`)
+3. **Custom RBAC Role Configuration** (`screenshots/custom_rbac.png`)
 
 ---
 
@@ -82,17 +85,3 @@ Through this lab, I gained practical knowledge of enterprise cloud governance. I
 - Identity and Access Management (IAM)
 - Custom Role Authoring & Scope Administration
 - Cloud Security Best Practices
-
----
-
-## 📖 Lab Reference
-
-[Microsoft Learn AZ-104: Manage Subscriptions and RBAC](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_02a_Manage_Subscriptions_and_RBAC_Entra.html)
-
----
-
-## 👨‍💻 Author
-
-**Abdultawa Lagao**  
-Aspiring Cybersecurity Analyst | Azure Administrator | IT Support Specialist  
-GitHub: https://github.com/abdul1738

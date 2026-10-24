@@ -31,7 +31,9 @@ The lab focused on enterprise governance, structuring management groups, examini
 - Azure Management Groups
 - Azure Subscriptions & Cost Management
 - Role-Based Access Control (RBAC)
-- JSON & Azure PowerShell / CLI ## 👤 Task 1: Implementing Management Groups & Governance
+- JSON & Azure PowerShell / CLI ## 👤
+- 
+Task 1: Implementing Management Groups & Governance
 
 I established a management group hierarchy to organize Azure subscriptions efficiently. This demonstrated how large organizations enforce governance policies and compliance across multiple subscription boundaries.
 

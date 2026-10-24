@@ -71,7 +71,7 @@ I explored Azure Role-Based Access Control (IAM) by assigning permissions at dif
 
 ## ⚙️ Task 3: Creating Custom RBAC Roles
 
-I defined a custom role using granular permission sets. This showcased how administrators can extend Azure's built-in role library to fit unique organizational requirements[span_0](start_span)[span_0](end_span).
+I defined a custom role using granular permission sets. This showcased how administrators can extend Azure's built-in role library to fit unique organizational requirements.
 
 ![Role Assignment Summary View](image_15.png)
 

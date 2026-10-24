@@ -17,27 +17,27 @@ The lab focused on enterprise governance, structuring management groups, examini
 
 ## 🎯 Objectives
 
-- Create and organize Azure Management Groups
+- Create and organize Azure Management Groups[span_0](start_span)[span_0](end_span)
 - Inspect Azure subscription properties and cost structures
-- Assign built-in Azure RBAC roles at various scopes
-- Create custom RBAC roles for specialized administrative tasks
-- Analyze inheritance of permissions across management hierarchies
+- Assign built-in Azure RBAC roles at various scopes[span_1](start_span)[span_1](end_span)
+- Create custom RBAC roles for specialized administrative tasks[span_2](start_span)[span_2](end_span)
+- Monitor role assignments with the Activity Log[span_3](start_span)[span_3](end_span)
 
 ---
 
 ## 🛠️ Technologies Used
 
-- Microsoft Azure Portal
-- Azure Management Groups
+- Microsoft Azure Portal[span_4](start_span)[span_4](end_span)
+- Azure Management Groups[span_5](start_span)[span_5](end_span)
 - Azure Subscriptions & Cost Management
-- Role-Based Access Control (RBAC)
+- Role-Based Access Control (RBAC)[span_6](start_span)[span_6](end_span)
 - JSON & Azure PowerShell / CLI concepts
 
 ---
 
 ## 👤 Task 1: Implementing Management Groups & Governance
 
-I established a management group hierarchy to organize Azure subscriptions efficiently. This demonstrated how large organizations enforce governance policies and compliance across multiple subscription boundaries.
+I established a management group hierarchy to organize Azure subscriptions efficiently. This demonstrated how large organizations enforce governance policies and compliance across multiple subscription boundaries[span_7](start_span)[span_7](end_span).
 
 ![Management Groups Setup 1](IMG_3530.png)
 
@@ -51,7 +51,7 @@ I established a management group hierarchy to organize Azure subscriptions effic
 
 ## 👥 Task 2: Configuring Azure RBAC & Role Assignments
 
-I explored Azure Role-Based Access Control (IAM) by assigning permissions at different scopes (Management Group, Subscription, and Resource Group). This emphasized the principle of least privilege, ensuring users only receive access required for their roles.
+I explored Azure Role-Based Access Control (IAM) by assigning permissions at different scopes (Management Group, Subscription, and Resource Group). This emphasized the principle of least privilege, ensuring users only receive access required for their roles[span_8](start_span)[span_8](end_span).
 
 ![IAM Access Control Overview](IMG_3546.png)
 
@@ -71,14 +71,22 @@ I explored Azure Role-Based Access Control (IAM) by assigning permissions at dif
 
 ## ⚙️ Task 3: Creating Custom RBAC Roles
 
-I defined a custom role using granular permission sets. This showcased how administrators can extend Azure's built-in role library to fit unique organizational requirements.
+I defined a custom role using granular permission sets. This showcased how administrators can extend Azure's built-in role library to fit unique organizational requirements[span_9](start_span)[span_9](end_span).
+
+---
+
+## 🔍 Task 4: Monitor Role Assignments with the Activity Log
+
+I examined the Azure Activity Log to track and audit subscription-level events and monitor administrative role modifications across the management group hierarchy[span_10](start_span)[span_10](end_span).
+
+![Activity Log Monitoring View](IMG_3553.png)
 
 ---
 
 ## 🔐 Security Concepts Demonstrated
 
 - Governance & Compliance Frameworks
-- Role-Based Access Control (RBAC)
+- Role-Based Access Control (RBAC)[span_11](start_span)[span_11](end_span)
 - Scope Inheritance & Delegation
 - Principle of Least Privilege
 - Multi-Subscription Management
@@ -87,7 +95,7 @@ I defined a custom role using granular permission sets. This showcased how admin
 
 ## 📚 Key Takeaways
 
-Through this lab, I gained practical knowledge of enterprise cloud governance. I learned how to structure administrative hierarchies, delegate permissions securely, and mitigate security risks through structured RBAC assignments.
+Through this lab, I gained practical knowledge of enterprise cloud governance. I learned how to structure administrative hierarchies, delegate permissions securely, and mitigate security risks through structured RBAC assignments[span_12](start_span)[span_12](end_span).
 
 ---
 
@@ -95,5 +103,5 @@ Through this lab, I gained practical knowledge of enterprise cloud governance. I
 
 - Azure Governance & Hierarchy Management
 - Identity and Access Management (IAM)
-- Custom Role Authoring & Scope Administration
+- Custom Role Authoring & Scope Administration[span_13](start_span)[span_13](end_span)
 - Cloud Security Best Practices

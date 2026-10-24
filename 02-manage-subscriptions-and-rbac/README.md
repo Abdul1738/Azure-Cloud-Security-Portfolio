@@ -97,7 +97,7 @@ I defined a custom role using granular permission sets. This showcased how admin
 
 ## 🔍 Task 4: Monitor Role Assignments with the Activity Log
 
-I examined the Azure Activity Log to track and audit subscription-level events and monitor administrative role modifications across the management group hierarchy[span_10](start_span)[span_10](end_span).
+I examined the Azure Activity Log to track and audit subscription-level events and monitor administrative role modifications across the management group hierarchy.
 
 ![Activity Log Overview](IMG_3576.png)
 
@@ -105,15 +105,6 @@ I examined the Azure Activity Log to track and audit subscription-level events a
 
 ![Activity Log Filtered Results](IMG_3578.png)
 
----
-
-## 🔐 Security Concepts Demonstrated
-
-- Governance & Compliance Frameworks
-- Role-Based Access Control (RBAC)[span_11](start_span)[span_11](end_span)
-- Scope Inheritance & Delegation
-- Principle of Least Privilege
-- Multi-Subscription Management
 
 ---
 

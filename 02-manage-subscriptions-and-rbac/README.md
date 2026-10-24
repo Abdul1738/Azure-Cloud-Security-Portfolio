@@ -125,4 +125,3 @@ Through this lab, I gained practical knowledge of enterprise cloud governance. I
 - Identity and Access Management (IAM)
 - Custom Role Authoring & Scope Administration[span_13](start_span)[span_13](end_span)
 - Cloud Security Best Practices
-

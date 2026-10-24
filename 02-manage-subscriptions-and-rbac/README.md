@@ -38,6 +38,7 @@ The lab focused on enterprise governance, structuring management groups, examini
 ## 👤 Task 1: Implementing Management Groups & Governance
 
 I established a management group hierarchy to organize Azure subscriptions efficiently. This demonstrated how large organizations enforce governance policies and compliance across multiple subscription boundaries.
+![Management Groups Hierarchy Setup](screenshots/management_groups.png)
 
 ---
 

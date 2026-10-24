@@ -40,13 +40,11 @@ The lab focused on enterprise governance, structuring management groups, examini
 I established a management group hierarchy to organize Azure subscriptions efficiently. This demonstrated how large organizations enforce governance policies and compliance across multiple subscription boundaries.
 !![Management Groups Hierarchy Setup](screenshots/management_groups.png)
 
-
 ---
 
 ## 👥 Task 2: Configuring Azure RBAC & Role Assignments
 
 I explored Azure Role-Based Access Control (IAM) by assigning permissions at different scopes (Management Group, Subscription, and Resource Group). This emphasized the principle of least privilege, ensuring users only receive access required for their roles.
-
 
 ---
 

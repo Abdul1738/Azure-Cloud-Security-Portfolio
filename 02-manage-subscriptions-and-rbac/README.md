@@ -31,28 +31,29 @@ The lab focused on enterprise governance, structuring management groups, examini
 - Azure Management Groups
 - Azure Subscriptions & Cost Management
 - Role-Based Access Control (RBAC)
-- JSON & Azure PowerShell / CLI concepts
-
----
-
-## 👤 Task 1: Implementing Management Groups & Governance
+- JSON & Azure PowerShell / CLI ## 👤 Task 1: Implementing Management Groups & Governance
 
 I established a management group hierarchy to organize Azure subscriptions efficiently. This demonstrated how large organizations enforce governance policies and compliance across multiple subscription boundaries.
-!![Management Groups Hierarchy Setup](screenshots/management_groups.png) 
+
+![Management Groups Setup 1](IMG_3530.png)
+
+![Management Groups Setup 2](IMG_3531.png)
+
+![Management Groups Setup 3](IMG_3532.png)
+
+![Management Groups Setup 4](IMG_3533.png)
 
 ---
 
 ## 👥 Task 2: Configuring Azure RBAC & Role Assignments
 
 I explored Azure Role-Based Access Control (IAM) by assigning permissions at different scopes (Management Group, Subscription, and Resource Group). This emphasized the principle of least privilege, ensuring users only receive access required for their roles.
-![Subscription Access Control IAM](IMG_3531.png)
 
 ---
 
 ## ⚙️ Task 3: Creating Custom RBAC Roles
 
 I defined a custom role using granular permission sets. This showcased how administrators can extend Azure's built-in role library to fit unique organizational requirements.
-![Custom RBAC Role Configuration](IMG_3532.png)
 
 ---
 

@@ -53,19 +53,19 @@ I established a management group hierarchy to organize Azure subscriptions effic
 
 I explored Azure Role-Based Access Control (IAM) by assigning permissions at different scopes (Management Group, Subscription, and Resource Group). This emphasized the principle of least privilege, ensuring users only receive access required for their roles.
 
-![IAM Access Control Overview](image_11.png)
+![IAM Access Control Overview](IMG_3546.png)
 
-![Role Assignments List](image_12.png)
+![Role Assignments List](IMG_3547.png)
 
-![Adding Role Assignment](image_13.png)
+![Adding Role Assignment](IMG_3548.png)
 
-![Selecting Members](image_14.png)
+![Selecting Members](IMG_3549.png)
 
-![Reviewing Role Assignment](image_15.png)
+![Reviewing Role Assignment](IMG_3550.png)
 
-![Role Assignment Conditions](image_16.png)
+![Role Assignment Conditions](IMG_3551.png)
 
-![Role Assignment Finalized](image_17.png)
+![Role Assignment Finalized](IMG_3552.png)
 
 ---
 

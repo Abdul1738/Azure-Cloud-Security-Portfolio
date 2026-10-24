@@ -38,7 +38,8 @@ The lab focused on enterprise governance, structuring management groups, examini
 ## 👤 Task 1: Implementing Management Groups & Governance
 
 I established a management group hierarchy to organize Azure subscriptions efficiently. This demonstrated how large organizations enforce governance policies and compliance across multiple subscription boundaries.
-![Management Groups Hierarchy Setup](screenshots/management_groups.png)
+!![Management Groups Hierarchy Setup](screenshots/management_groups.png)
+
 
 ---
 
@@ -64,13 +65,6 @@ I defined a custom role using granular permission sets. This showcased how admin
 
 ---
 
-## 📸 Lab Screenshots & Evidence Reference
-
-1. **Management Groups Hierarchy Setup** (`screenshots/management_groups.png`)
-2. **Subscription Access Control (IAM)** (`screenshots/subscription_iam.png`)
-3. **Custom RBAC Role Configuration** (`screenshots/custom_rbac.png`)
-
----
 
 ## 📚 Key Takeaways
 

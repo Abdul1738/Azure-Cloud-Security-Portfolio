@@ -46,12 +46,14 @@ I established a management group hierarchy to organize Azure subscriptions effic
 ## 👥 Task 2: Configuring Azure RBAC & Role Assignments
 
 I explored Azure Role-Based Access Control (IAM) by assigning permissions at different scopes (Management Group, Subscription, and Resource Group). This emphasized the principle of least privilege, ensuring users only receive access required for their roles.
+![Subscription Access Control IAM](IMG_3531.png)
 
 ---
 
 ## ⚙️ Task 3: Creating Custom RBAC Roles
 
 I defined a custom role using granular permission sets. This showcased how administrators can extend Azure's built-in role library to fit unique organizational requirements.
+![Custom RBAC Role Configuration](IMG_3532.png)
 
 ---
 
